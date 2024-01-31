@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "src.App",
+            "projectName": "Coding_Test_Study_12cf14bf"
+        },
+        {
             "name": "Python: 현재 파일",
             "type": "python",
             "request": "launch",

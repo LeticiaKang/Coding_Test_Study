@@ -1,3 +1,4 @@
 {
-    "jupyter.askForKernelRestart": true
+    "jupyter.askForKernelRestart": true,
+    "java.debug.settings.onBuildFailureProceed": true
 }
